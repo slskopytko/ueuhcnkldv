@@ -1,0 +1,4 @@
+- pipeline: fmbxtssrko
+  refs:
+  - refs/heads/master
+  on: CLICK
